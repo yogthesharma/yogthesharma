@@ -10,15 +10,9 @@ Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I l
 - **Frameworks**: React, Vue, Angular
 - **Tools**: Git, Webpack, Babel, ESLint
 
-## Projects 🛠️
-1. **Project 1**: Description of project 1
-2. **Project 2**: Description of project 2
-3. **Project 3**: Description of project 3
-
 ## Contact Me 📬
-- **Email**: youremail@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/yourprofile)
+- **Email**: yogthesharma@gmail.com
+- **LinkedIn**: [Click Here](https://linkedin.com/in/yogthesharma)
 
 ![Thank you](https://media.giphy.com/media/xTiTnn5aEwDs8UhwpC/giphy.gif)
 
