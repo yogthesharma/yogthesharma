@@ -1,49 +1,78 @@
-# Welcome to My GitHub Profile! 🎉✨
+<style>
+  .header {
+    font-size: 2em;
+    font-weight: bold;
+    color: #2E86C1;
+  }
+  
+  .subheader {
+    font-size: 1.5em;
+    color: #2874A6;
+  }
+  
+  .section {
+    background-color: #EAF2F8;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+  }
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif" alt="Hi there">
-</p>
+  .emoji {
+    margin-right: 5px;
+  }
+  
+  .code-block {
+    background-color: #F8F9F9;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+  }
 
-<p align="center">
-  ## About Me 😎
-</p>
-<p align="center">
-  Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications.
-</p>
+  .image-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
 
-<p align="center">
-  ## Skills 🚀
-</p>
-<p align="center">
-  - **Languages**: JavaScript, TypeScript, HTML, CSS
-  - **Frameworks**: React, Vue, Angular
-  - **Tools**: Git, Webpack, Babel, ESLint
-</p>
+# <span class="header">Welcome to My GitHub Profile! 🎉✨</span>
 
-<p align="center">
-  ## Projects 🛠️
-</p>
-<p align="center">
-  1. **Project 1**: Description of project 1
-  2. **Project 2**: Description of project 2
-  3. **Project 3**: Description of project 3
-</p>
+<img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif" alt="Hi there" class="image-center">
 
-<p align="center">
-  ## Contact Me 📬
-</p>
-<p align="center">
-  - **Email**: youremail@example.com
-  - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-  - **Twitter**: [Your Twitter Profile](https://twitter.com/yourprofile)
-</p>
+<div class="section">
+  <span class="subheader">About Me 😎</span>
+  <p>Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications.</p>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnn5aEwDs8UhwpC/giphy.gif" alt="Thank you">
-</p>
+<div class="section">
+  <span class="subheader">Skills 🚀</span>
+  <ul>
+    <li><span class="emoji">💻</span> **Languages**: JavaScript, TypeScript, HTML, CSS</li>
+    <li><span class="emoji">🔧</span> **Frameworks**: React, Vue, Angular</li>
+    <li><span class="emoji">🛠️</span> **Tools**: Git, Webpack, Babel, ESLint</li>
+  </ul>
+</div>
+
+<div class="section">
+  <span class="subheader">Projects 🛠️</span>
+  <ul>
+    <li><span class="emoji">⚙️</span> **Project 1**: Description of project 1</li>
+    <li><span class="emoji">⚙️</span> **Project 2**: Description of project 2</li>
+    <li><span class="emoji">⚙️</span> **Project 3**: Description of project 3</li>
+  </ul>
+</div>
+
+<div class="section">
+  <span class="subheader">Contact Me 📬</span>
+  <ul>
+    <li><span class="emoji">📧</span> **Email**: youremail@example.com</li>
+    <li><span class="emoji">🔗</span> **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)</li>
+    <li><span class="emoji">🐦</span> **Twitter**: [Your Twitter Profile](https://twitter.com/yourprofile)</li>
+  </ul>
+</div>
+
+<img src="https://media.giphy.com/media/xTiTnn5aEwDs8UhwpC/giphy.gif" alt="Thank you" class="image-center">
 
 ---
 
-<p align="center">
-  **Keep Coding and Have Fun!** 💻🎉
-</p>
+<span class="header">**Keep Coding and Have Fun!** 💻🎉</span>
