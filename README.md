@@ -3,7 +3,7 @@
 ![Hi there](https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif)
 
 ## About Me 😎
-Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications.
+Hi, I'm Yog Sharma – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications.
 
 ## Skills 🚀
 - **Languages**: JavaScript, TypeScript, HTML, CSS, Rust
