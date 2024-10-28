@@ -1,41 +1,27 @@
-# <span class="header">Welcome to My GitHub Profile! 🎉✨</span>
+# Welcome to My GitHub Profile! 🎉✨
 
-<img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif" alt="Hi there" class="image-center">
+![Hi there](https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif)
 
-<div class="section">
-  <span class="subheader">About Me 😎</span>
-  <p>Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications.</p>
-</div>
+## About Me 😎
+Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications.
 
-<div class="section">
-  <span class="subheader">Skills 🚀</span>
-  <ul>
-    <li><span class="emoji">💻</span> **Languages**: JavaScript, TypeScript, HTML, CSS</li>
-    <li><span class="emoji">🔧</span> **Frameworks**: React, Vue, Angular</li>
-    <li><span class="emoji">🛠️</span> **Tools**: Git, Webpack, Babel, ESLint</li>
-  </ul>
-</div>
+## Skills 🚀
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: React, Vue, Angular
+- **Tools**: Git, Webpack, Babel, ESLint
 
-<div class="section">
-  <span class="subheader">Projects 🛠️</span>
-  <ul>
-    <li><span class="emoji">⚙️</span> **Project 1**: Description of project 1</li>
-    <li><span class="emoji">⚙️</span> **Project 2**: Description of project 2</li>
-    <li><span class="emoji">⚙️</span> **Project 3**: Description of project 3</li>
-  </ul>
-</div>
+## Projects 🛠️
+1. **Project 1**: Description of project 1
+2. **Project 2**: Description of project 2
+3. **Project 3**: Description of project 3
 
-<div class="section">
-  <span class="subheader">Contact Me 📬</span>
-  <ul>
-    <li><span class="emoji">📧</span> **Email**: youremail@example.com</li>
-    <li><span class="emoji">🔗</span> **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)</li>
-    <li><span class="emoji">🐦</span> **Twitter**: [Your Twitter Profile](https://twitter.com/yourprofile)</li>
-  </ul>
-</div>
+## Contact Me 📬
+- **Email**: youremail@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Twitter**: [Your Twitter Profile](https://twitter.com/yourprofile)
 
-<img src="https://media.giphy.com/media/xTiTnn5aEwDs8UhwpC/giphy.gif" alt="Thank you" class="image-center">
+![Thank you](https://media.giphy.com/media/xTiTnn5aEwDs8UhwpC/giphy.gif)
 
 ---
 
-<span class="header">**Keep Coding and Have Fun!** 💻🎉</span>
+**Keep Coding and Have Fun!** 💻🎉
