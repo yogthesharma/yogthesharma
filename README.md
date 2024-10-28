@@ -6,7 +6,7 @@
 Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications. 
 
 ## Skills 🚀
-- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Rust
 - **Frameworks**: React, Vue, Angular
 - **Tools**: Git, Webpack, Babel, ESLint
 
