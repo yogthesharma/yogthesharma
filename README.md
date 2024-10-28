@@ -1,21 +1,49 @@
 # Welcome to My GitHub Profile! 🎉✨
 
-![Hi there](https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif" alt="Hi there">
+</p>
 
-## About Me 😎
-Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications. 
+<p align="center">
+  ## About Me 😎
+</p>
+<p align="center">
+  Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications.
+</p>
 
-## Skills 🚀
-- **Languages**: JavaScript, TypeScript, HTML, CSS, Rust
-- **Frameworks**: React, Vue, Angular
-- **Tools**: Git, Webpack, Babel, ESLint
+<p align="center">
+  ## Skills 🚀
+</p>
+<p align="center">
+  - **Languages**: JavaScript, TypeScript, HTML, CSS
+  - **Frameworks**: React, Vue, Angular
+  - **Tools**: Git, Webpack, Babel, ESLint
+</p>
 
-## Contact Me 📬
-- **Email**: yogthesharma@gmail.com
-- **LinkedIn**: [Click Here](https://linkedin.com/in/yogthesharma)
+<p align="center">
+  ## Projects 🛠️
+</p>
+<p align="center">
+  1. **Project 1**: Description of project 1
+  2. **Project 2**: Description of project 2
+  3. **Project 3**: Description of project 3
+</p>
 
-![Thank you](https://media.giphy.com/media/xTiTnn5aEwDs8UhwpC/giphy.gif)
+<p align="center">
+  ## Contact Me 📬
+</p>
+<p align="center">
+  - **Email**: youremail@example.com
+  - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+  - **Twitter**: [Your Twitter Profile](https://twitter.com/yourprofile)
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnn5aEwDs8UhwpC/giphy.gif" alt="Thank you">
+</p>
 
 ---
 
-**Keep Coding and Have Fun!** 💻🎉
+<p align="center">
+  **Keep Coding and Have Fun!** 💻🎉
+</p>
