@@ -6,19 +6,13 @@
 Hi, I'm [Your Name] – A passionate Frontend Developer from India 🇮🇳. I love creating interactive and dynamic web applications.
 
 ## Skills 🚀
-- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Rust
 - **Frameworks**: React, Vue, Angular
 - **Tools**: Git, Webpack, Babel, ESLint
 
-## Projects 🛠️
-1. **Project 1**: Description of project 1
-2. **Project 2**: Description of project 2
-3. **Project 3**: Description of project 3
-
 ## Contact Me 📬
-- **Email**: youremail@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/yourprofile)
+- **Email**: yogthesharma@gmail.com
+- **LinkedIn**: [Don't click here](https://linkedin.com/in/yogthesharma)
 
 ![Thank you](https://media.giphy.com/media/xTiTnn5aEwDs8UhwpC/giphy.gif)
 
