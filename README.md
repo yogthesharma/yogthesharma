@@ -7,8 +7,8 @@ Hi, I'm Yog Sharma – A passionate Frontend Developer from India 🇮🇳. I lo
 
 ## Skills 🚀
 - **Languages**: JavaScript, TypeScript, HTML, CSS, Rust
-- **Frameworks**: React, Vue, Angular
-- **Tools**: Git, Webpack, Babel, ESLint
+- **Frameworks**: React, Express, Next.js, Actix
+- **Tools**: Git, Webpack, Babel, ESLint, Vite
 
 ## Contact Me 📬
 - **Email**: yogthesharma@gmail.com
