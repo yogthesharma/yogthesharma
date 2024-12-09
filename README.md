@@ -10,7 +10,7 @@ Hi, I'm Yog Sharma – A passionate Frontend Developer from India 🇮🇳. I lo
 
 ## Contact Me 📬
 - **Email**: yogthesharma@gmail.com
-- **LinkedIn**: [Don't click here](https://linkedin.com/in/yogthesharma)
+- **LinkedIn**: [Click here](https://linkedin.com/in/yogthesharma)
 
 ---
 
