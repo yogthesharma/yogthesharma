@@ -6,15 +6,14 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:0B4F8A,100:58A6FF&text=Yog%20Sharma&fontSize=52&fontColor=E6EDF3&fontAlignY=35&desc=Senior%20Software%20Engineer%20%C2%B7%20React%20systems%20%C2%B7%20AI%20products&descSize=16&descAlignY=60&descAlign=50&animation=fadeIn"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Hey%2C+I'm+Yog+Sharma;Senior+Software+Engineer"
     alt="Yog Sharma"
-    width="100%"
   />
 
   <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Shipping+data-heavy+UIs+%26+AI-native+products;Building+lcode+%C2%B7+Tauri+%2B+React+%2B+Rust;Open+to+interesting+problems+%26+collaborations"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=680&height=40&lines=Shipping+data-heavy+UIs+%26+AI-native+products;Building+lcode+%C2%B7+Tauri+%2B+React+%2B+Rust"
     alt="Focus areas"
   />
 
@@ -131,25 +130,12 @@ const yog = {
 
 ### Experience
 
-```text
-Uniblox .................. Full Stack Engineer ............ Jun 2026 - Present
-Atlys .................... Senior Software Engineer ....... Nov 2024 - May 2026
-IQM Corporation .......... Software Developer ............. Jul 2021 - Oct 2024
-Uibix .................... Frontend Developer Intern ...... Jan 2021 - Jun 2021
-```
-
----
-
-### GitHub pulse
-
-<div align="center">
-  <a href="https://github.com/yogthesharma">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=yogthesharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/yogthesharma">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogthesharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-  </a>
-</div>
+| Company | Role | Period |
+| :------ | :--- | :----- |
+| **Uniblox** | Full Stack Engineer | Jun 2026 - Present |
+| **Atlys** | Senior Software Engineer | Nov 2024 - May 2026 |
+| **IQM Corporation** | Software Developer | Jul 2021 - Oct 2024 |
+| **Uibix** | Frontend Developer Intern | Jan 2021 - Jun 2021 |
 
 ---
 
@@ -163,23 +149,7 @@ Uibix .................... Frontend Developer Intern ...... Jan 2021 - Jun 2021
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogthesharma/yogthesharma/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogthesharma/yogthesharma/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/yogthesharma/yogthesharma/output/github-snake.svg" />
-  </picture>
-
-  <br /><br />
-
   <img src="https://komarev.com/ghpvc/?username=yogthesharma&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
-
-  <br /><br />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:58A6FF,100:0D1117&section=footer&text=Let's%20build%20something%20useful&fontSize=22&fontColor=E6EDF3&fontAlignY=55&animation=fadeIn"
-    alt="Footer"
-    width="100%"
-  />
 
   <p>
     <a href="https://yogsharma.vercel.app">Portfolio</a> ·
