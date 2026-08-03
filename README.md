@@ -39,6 +39,7 @@ const yog = {
   previously: ["Senior SWE @ Atlys", "Software Developer @ IQM"],
   basedIn: "Gurugram, India",
   shipping: "lcode · AI-native desktop editor",
+  learning: "Python",
 };
 ```
 
@@ -119,11 +120,11 @@ const yog = {
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,nodejs,rust,postgres,redis,docker,aws,vercel,github&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,tailwind,vite,nodejs,rust,postgres,redis,docker,aws,vercel,github&perline=8" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>Zustand</code> · <code>React Query</code> · <code>Node.js</code> · <code>Fastify</code> · <code>Rust</code> · <code>Tauri</code> · <code>PostgreSQL</code> · <code>Docker</code>
+  <code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>Python</code> · <code>Zustand</code> · <code>React Query</code> · <code>Node.js</code> · <code>Fastify</code> · <code>Rust</code> · <code>Tauri</code> · <code>PostgreSQL</code> · <code>Docker</code>
 </p>
 
 ---
