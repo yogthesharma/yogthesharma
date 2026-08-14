@@ -124,7 +124,7 @@ const yog = {
 </p>
 
 <p align="center">
-  <code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>Python</code> · <code>Zustand</code> · <code>React Query</code> · <code>Node.js</code> · <code>Fastify</code> · <code>Rust</code> · <code>Tauri</code> · <code>PostgreSQL</code> · <code>Docker</code>
+  <code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>Python</code> · <code>Go</code> · <code>Zustand</code> · <code>React Query</code> · <code>Node.js</code> · <code>Fastify</code> · <code>Rust</code> · <code>Tauri</code> · <code>PostgreSQL</code> · <code>Docker</code>
 </p>
 
 ---
