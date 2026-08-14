@@ -120,7 +120,7 @@ const yog = {
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,tailwind,vite,nodejs,rust,postgres,redis,docker,aws,vercel,github&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,go,tailwind,vite,nodejs,rust,postgres,redis,docker,aws,vercel,github&perline=8" alt="Tech stack" />
 </p>
 
 <p align="center">
